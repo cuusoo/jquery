@@ -1,0 +1,16 @@
+{
+  "name": "jquery",
+  "repo": "cuusoo/jquery",
+  "description": "jQuery for component",
+  "version": "2.1.0",
+  "keywords": [
+    "jquery",
+    "component"
+  ],
+  "scripts": [
+    "index.js"
+  ],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT"
+}
